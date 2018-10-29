@@ -1,0 +1,2 @@
+class ImdbMovieNotValidException(Exception):
+    pass

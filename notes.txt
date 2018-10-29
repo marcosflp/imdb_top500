@@ -1,0 +1,4 @@
+Poderia ter usado um esquema de versionamento mais robusto, como GitFlow ou GitHubFlow, mas como estou trabalhando
+no projeto sozinho estarei usando somente a branch 'master' para realizar o versionamento.
+
+

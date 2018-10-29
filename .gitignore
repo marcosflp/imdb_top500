@@ -274,3 +274,6 @@ pip-selfcheck.json
 
 # End of https://www.gitignore.io/api/git,macos,linux,python,pycharm+all
 
+# Custom ignores
+
+exported_movies/*
